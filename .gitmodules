@@ -1,4 +1,4 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/OCA/website.git
-	branch = 14.0
+	branch = 15.0
